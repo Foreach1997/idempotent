@@ -8,11 +8,9 @@ import java.io.Serializable;
 
 /**
  * Project:               ${PROJECT_NAME}
- * Author:                crh
- * Company:               Big Player Group
+ * Author:                ljw
  * Created Date:          ${DATE}
  * Description:   {类描述}
- * Copyright @ 2017-${YEAR} BIGPLAYER.GROUP – Confidential and Proprietary
  * <p>
  * History:
  * ------------------------------------------------------------------------------

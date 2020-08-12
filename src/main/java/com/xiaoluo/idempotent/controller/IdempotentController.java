@@ -11,10 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
  * Project:               idempotent
  *
  * @Author: ljw
- * Company:               Big Player Group
  * Created Date:          2020/5/29
  * Description:   {类描述}
- * Copyright @ 2017-2020 BIGPLAYER.GROUP – Confidential and Proprietary
  * <p>
  * History:
  * ------------------------------------------------------------------------------
